@@ -1,13 +1,17 @@
 at the first time after run project go to http://localhost:300/sign-in for athutecation
 after that you can use this program
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+********************************
 this is a project with drizzle.orm
 this is a project with drizzle.zod
+***********************************
 clerk/backend for login and back end
 hono/clerk-auth for db
 hono/zod-validator
+************************
 hookform/resolvers
 neondatabase/serverless
+***********************
 paralleldrive/cuid2
 radix-ui/react-checkbox
 react-day-picker
